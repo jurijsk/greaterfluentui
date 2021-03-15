@@ -1,3 +1,12 @@
+# 0.0.17
+15.03.2021
+
+### New
+- Added hover state of IconButton.
+### Fixes/Changes
+ - many, various, don't know
+- rearranging components taxonomy for easier access via swap menu.
+
 # 0.0.16
 18.01.2021
 
