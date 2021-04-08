@@ -1,10 +1,17 @@
+# 0.0.18
+08.04.2021
+
+### Fixes/Changes
+ * All CommandBar related components were flipped vertically, which lead to flipped components when the original button swapped to some other components. 
+
+
 # 0.0.17
 15.03.2021
 
 ### New
 - Added hover state of IconButton.
 ### Fixes/Changes
- - many, various, don't know
+- many, various, don't know
 - rearranging components taxonomy for easier access via swap menu.
 
 # 0.0.16
