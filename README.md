@@ -1,6 +1,9 @@
 # Greater FluentUI Design System
 True to Figma's approach implementation of Microsoft's Fluent UI Design System for Web.
 
+![](fluentui-hero.png)
+
+
 ## Why anyone needs to rework official Fluent UI component library for Figma?
 
 Here are two purposes to rework the official library, which is very good on its own. 
