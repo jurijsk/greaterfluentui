@@ -1,3 +1,11 @@
+# 0.0.19
+23.07.2021
+
+### New
+* Added Checkbox with checked/unchecked and default and hover variants.
+### Fixes/Changes
+* some fixes
+
 # 0.0.18
 08.04.2021
 
