@@ -1,3 +1,11 @@
+
+# 0.0.20
+24.07.2021
+
+### New
+
+* Added ChoiceGroupOption a.k.a. Radiobutton with checked/unchecked and default and hover variants. Not adding ChoiceGroup component because it does not add much value, it is easier to create a list of radio buttons on the spot.
+
 # 0.0.19
 23.07.2021
 
