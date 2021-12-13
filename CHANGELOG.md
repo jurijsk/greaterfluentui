@@ -1,4 +1,12 @@
+# 0.0.22
+13.12.2021
 
+### New
+
+ * Added hovered and focused states for SearchBox
+ * Added transitions between default-hovered-pressed states for some buttons
+ * Improved TextField by introducing hover interactions for right size (reveal) icon button
+ * Added Showroom WIP
 
 # 0.0.21
 04.11.2021
