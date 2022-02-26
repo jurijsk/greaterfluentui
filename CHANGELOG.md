@@ -1,3 +1,16 @@
+# 0.0.23
+26.02.2022
+
+### New
+
+ * Marked as ‘hidden’ tech and design-time components to declutter design space when the library is published
+ * Added disabled state of SearchBox 
+ * Added disabled state of Checkbox
+ * Working on Drop-down menu
+ * Fixed Button controls state change interaction (normal to hover to pressed)
+ * Added pressed state to Action button
+
+
 # 0.0.22
 13.12.2021
 
