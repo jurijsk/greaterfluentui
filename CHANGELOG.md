@@ -1,3 +1,9 @@
+# 0.0.24
+25.03.2022
+
+### New
+ * Moved primary split button to standalone component - SplitButton and implemented disabled and hover and focused for each part of the button. 
+
 # 0.0.23
 26.02.2022
 
